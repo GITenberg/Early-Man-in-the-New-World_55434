@@ -1,0 +1,27 @@
+_repo: Early-Man-in-the-New-World_55434
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Hester, Joseph A.
+    gutenberg_agent_id: '48334'
+    url: http://www.gutenberg.org/2009/agents/48334
+  - agent_name: Macgowan, Kenneth
+    birthdate: 1888
+    deathdate: 1963
+    gutenberg_agent_id: '48333'
+    url: http://www.gutenberg.org/2009/agents/48333
+    wikipedia: https://en.wikipedia.org/wiki/Kenneth_Macgowan
+description: ''
+gutenberg_issued: '2017-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Natural history library; no. 22
+subjects:
+- GITenberg
+title: Early Man in the New World
+url: http://www.gutenberg.org/ebooks/55434
